@@ -6,6 +6,9 @@ CSCI 3308 Lab 2
 # Team Member Names:
 
 Mreedul Gupta: MreedulGupta
+
 Peter Benda: PeterBenda
+
 Evan Pseng: evts8505
+
 Nico Tsiridis: nct223
